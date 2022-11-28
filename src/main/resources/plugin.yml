@@ -1,0 +1,8 @@
+name: Training
+version: '${project.version}'
+main: fr.wakusay.training.Training
+api-version: 1.19
+prefix: training
+authors: [ wakusay ]
+description: plugin for training to spigot API
+website: https://vanezia.fr
